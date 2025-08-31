@@ -19,3 +19,35 @@ Los atributos son características adicionales que se agregan a las etiquetas pa
 - `src`: indica la ubicación de una imagen o recurso.  
 - `href`: define el destino de un enlace.  
 - `alt`: describe una imagen.  
+
+
+## 4. ¿Qué es CSS y cómo se utiliza para el diseño web?
+CSS (Cascading Style Sheets) es el lenguaje que da presentación y estilo a los documentos HTML. Permite cambiar colores, fuentes, márgenes, tamaños, posiciones y adaptar el diseño para distintos dispositivos. Se puede aplicar en línea, en el mismo archivo HTML o en un archivo externo.
+
+---
+
+## 5. ¿Qué es una propiedad en CSS y menciona las propiedades más comunes?
+Una propiedad en CSS es una característica que define cómo se verá un elemento HTML. Siempre tiene un nombre y un valor.  
+**Ejemplos comunes:**  
+- `color`: cambia el color del texto.  
+- `background-color`: color de fondo.  
+- `font-size`: tamaño de la letra.  
+- `margin`: espacio externo del elemento.  
+- `padding`: espacio interno.  
+- `border`: define un borde.  
+
+---
+
+## 6. ¿Qué es un selector en CSS y cuáles tipos existen?
+Un selector es lo que indica a qué elementos HTML se aplicarán los estilos en CSS.  
+**Tipos de selectores:**  
+- Por etiqueta: `p { }`  
+- Por clase: `.miClase { }`  
+- Por id: `#miId { }`  
+- Universal: `* { }`  
+- Combinadores: `div p { }`  
+
+---
+
+## 7. ¿Qué es JavaScript y cómo añade la interactividad a las páginas web?
+JavaScript es un lenguaje de programación que permite añadir interactividad a las páginas web. Gracias a JS se pueden validar formularios, crear animaciones, actualizar contenido sin recargar la página y responder a las acciones del usuario como clics o movimientos del ratón.
